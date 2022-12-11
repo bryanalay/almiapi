@@ -1,6 +1,7 @@
 # almiapi
-api mongo auth login register
+
 Api developed in Express using mongodb and bcrypt for encript input data (password)
+
 You can get all user, but just response with the id and username
 -https://almiapi.herokuapp.com/api/allusers
 You can create a user doing a post request with a json in the body
